@@ -1,6 +1,6 @@
 # eppz.Meshes
 
-Procedural runtime ring and circle mesh creator classes for Unity.
+Procedural runtime ring and circle mesh creator classes for Unity. See example scene in [`Scenes`](Scenes) for more.
 
 ## License
 
