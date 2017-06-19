@@ -5,4 +5,3 @@ Procedural runtime ring and circle mesh creator classes for Unity. See example s
 ## License
 
 > Licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
-
